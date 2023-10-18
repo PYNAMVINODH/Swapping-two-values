@@ -29,6 +29,7 @@ n2=temp
 print(n1,n2)
 ```
 ## output
+![Screenshot 2023-10-18 114506](https://github.com/PYNAMVINODH/Swapping-two-values/assets/145742678/dc607d7f-30f9-439b-b98a-a932300fd372)
 
 
 ## RESULT:
